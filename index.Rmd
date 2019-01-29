@@ -304,7 +304,7 @@ Los conjuntos de datos listados a continuación están agrupados siguiendo las c
 
 ### Datos sobre impactos y amenazas naturales
 | Conjunto de datos | Entidad gubernamental actualmente encargada de su generación | Observaciones |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|-----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 | Datos meteorológicos (precipitación, temperaturas, etc.) | Instituto Meteorológico Nacional (IMN), Instituto Costarricense de Electricidad (ICE) | Aunque actualmente existe accesibilidad  a los resúmenes mensuales del IMN y a los del ICE según acuerdo de confidencialidad, sería importante tener también acceso abierto no solo a los registros mensuales si no también a los diarios de al menos las temperaturas máximas, mínimas y precipitación. |
 | Caudales de ríos | Acueductos y Alcantarillados (AyA), Instituto Costarricense de Electricidad (ICE), Dirección de Agua (DA) | Actualmente existen distintas entidades gubernamentales con estaciones automáticas para mediciones de caudal en varias cuencas del país. Sería importante tener acceso abierto a al menos el listado de esas cuencas aforadas. |
 | Historial de eventos hidrometeorológicos extremos y los daños causados | Comisión Nacional de Prevención de Riesgos y Atención de Emergencias (CNE). | El CNE cuenta con un documento en pdf con el historial de desastres naturales del país y breves reseña de las comunidades afectadas. Como parte del fellowship de ILDA, se extrajo la tabla del pdf y se analizaron varios de estos desastres, especialmente los relacionados a eventos hidrometeorológicos.|
@@ -319,13 +319,13 @@ Los conjuntos de datos listados a continuación están agrupados siguiendo las c
 
 ### Datos sobre agricultura
 | Conjunto de datos | Entidad gubernamental actualmente encargada de su generación | Observaciones |
-|-----------------------------|--------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|-----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 | Nivel de aguas subterráneas | Dirección de Agua del Ministerio de Ambiente y Energía. | La Dirección de Agua actualmente tiene el SINIGIRH, un sistema que en tiempo real registra los datos del nivel de los acuíferos en ciertos lugares del país. Aunque el acceso al sistema actualmente es restringido, sería importante tener acceso abierto a los registros históricos. |
 
 
 ### Datos sobre vulnerabilidad climática
 | Conjunto de datos | Entidad gubernamental actualmente encargada de su generación | Observaciones |
-|--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|-----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 | Acueductos comunitarios (ASADAS), municipales y administrados por el AyA | Acueductos y Alcantarillados (AyA) | El AyA cuenta con la lista y ubicación de las Asociaciones administradoras de los Sistemas de Acueductos y Alcantarillados comunales (ASADAS). |
 | Acueductos que cuentan con planes de seguridad del agua | Acueductos y Alcantarillados (AyA) | Historial y estadísticas de acueductos comunitarios, municipales y administrados por el AyA que cuentan con planes de seguridad del agua implementados y en proceso de implementación. |
 | Comunidades con planes de emergencia ante eventos climáticos extremos, además de comités municipales y comunales de emergencia | Comisión Nacional de Prevención de Riesgos y Atención de Emergencias (CNE). |  |
@@ -335,13 +335,13 @@ Los conjuntos de datos listados a continuación están agrupados siguiendo las c
 
 ### Datos sobre emisiones
 | Conjunto de datos | Entidad gubernamental actualmente encargada de su generación | Observaciones |
-|----------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------------------------|
+|-----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 | Inventario nacional de gases de efecto invernadero | Instituto Meteorólgico Nacional (IMN) | Los datos resúmen están disponibles actualmente como tablas en documentos pdf. |
 
 
 ### Datos sobre electricidad
 | Conjunto de datos | Entidad gubernamental actualmente encargada de su generación | Observaciones |
-|--------------------------------------------------|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+|-----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 | Estadísticas relacionadas a generación eléctrica | Dirección de Energía del Ministerio de Ambiente y Energía (MINAE), Instituto Costarricense de Electricidad (ICE) | El ICE publica informes mensuales en formato pdf con los resúmenes del balance eléctrico por fuente. |
 
 ## **Recomendaciones **
