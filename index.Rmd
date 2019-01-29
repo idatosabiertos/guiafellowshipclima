@@ -124,15 +124,15 @@ Los datos digitales pueden presentarse en distintos formatos que en muchos casos
 
 Una selección de los formatos abiertos más comúnmente utilizados para documentos de texto, tablas e imágenes es:
 
-**Documentos de texto**
+### Documentos de texto
 
-**pdf** - Acrónimo de *portable document file*. Originalmente creado por la empresa Adobe como un formato propietario (cerrado) pero desde la versión 2.0 está estandarizado bajo ISO. Es importante mencionar que un documento PDF puede estar compuesto tanto por imágenes escaneadas de documentos físicos como también por documentos electrónicos. La diferencia entre estos dos es que cuando el PDF se compone de imágenes escaneadas, los datos no pueden extraerse tan fácilmente como cuando el pdf se crea directamente, por ejemplo, desde un documento de Word. En el primer caso sería necesario utilizar un software de reconocimiento de caracteres (OCR) para tratar de recuperar parte del texto, en el segundo caso, los datos podrían extraerse automáticamente a través de seleccionar el texto, copiar y pegar.
+*pdf* - Acrónimo de *portable document file*. Originalmente creado por la empresa Adobe como un formato propietario (cerrado) pero desde la versión 2.0 está estandarizado bajo ISO. Es importante mencionar que un documento PDF puede estar compuesto tanto por imágenes escaneadas de documentos físicos como también por documentos electrónicos. La diferencia entre estos dos es que cuando el PDF se compone de imágenes escaneadas, los datos no pueden extraerse tan fácilmente como cuando el pdf se crea directamente, por ejemplo, desde un documento de Word. En el primer caso sería necesario utilizar un software de reconocimiento de caracteres (OCR) para tratar de recuperar parte del texto, en el segundo caso, los datos podrían extraerse automáticamente a través de seleccionar el texto, copiar y pegar.
 
 *docx* - Formato parte del *Office Open XML* para documentos de Word desarrollado por Microsoft. Está estandarizado bajo ISO/IEC.
 
 *txt*- Documento de texto codificado bajo algún código no propietario (como por ejemplo ASCII o UTF-8).
 
-**Tablas**
+### Tablas
 
 *xlsx* - Documento de hoja de cálculo parte del *Office Open XML *para documentos de Excel desarrollado por Microsoft. Está estandarizado bajo ISO/IEC.
 
@@ -140,7 +140,7 @@ Una selección de los formatos abiertos más comúnmente utilizados para documen
 
 *csv* - Documento de texto para tablas. En este formato las entradas de cada columna se separan por comas y el texto está codificado en algún código no propietario. Este es el formato abierto preferido para compartir información ordenada como tablas.
 
-**Imágenes**
+### Imágenes
 
 *GIF* - Formato originalmente creado por la empresa CompuServe y abierto desde que venció su patente en 2004.
 
