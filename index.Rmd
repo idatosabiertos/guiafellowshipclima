@@ -309,16 +309,19 @@ Los conjuntos de datos listados a continuación están agrupados siguiendo las c
 | Caudales de ríos | Acueductos y Alcantarillados (AyA), Instituto Costarricense de Electricidad (ICE), Dirección de Agua (DA) | Actualmente existen distintas entidades gubernamentales con estaciones automáticas para mediciones de caudal en varias cuencas del país. Sería importante tener acceso abierto a al menos el listado de esas cuencas aforadas. |
 | Historial de eventos hidrometeorológicos extremos y los daños causados | Comisión Nacional de Prevención de Riesgos y Atención de Emergencias (CNE). | El CNE cuenta con un documento en pdf con el historial de desastres naturales del país y breves reseña de las comunidades afectadas. Como parte del fellowship de ILDA, se extrajo la tabla del pdf y se analizaron varios de estos desastres, especialmente los relacionados a eventos hidrometeorológicos.|
 
+
 ### Datos sobre uso del suelo, cambio de uso del suelo y forestería
 | Conjunto de datos | Entidad gubernamental actualmente encargada de su generación | Observaciones |
 |-----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 | Cobertura del suelo | Ministerio de Ambiente y Energía (MINAE). Ministerio de Ganadería (MAG). | Los datos del último inventario nacional forestal (2015) ya están abiertos en el SNIT. También en el SNIT se pueden acceder los datos históricos y actuales sobre la extensión del cultivo de la piña. El ICAFE ha trabajado en las estadísticas de las extensiones y productividad del café.|
 | Historial de fincas con pago por servicios ambientales | Fondo Nacional de Financiamiento Forestal (FONAFIFO) | Número, extensión y demás estadísticas de las fincas participantes en el programa de pago por servicios ambientales. |
 
+
 ### Datos sobre agricultura
 | Conjunto de datos | Entidad gubernamental actualmente encargada de su generación | Observaciones |
 |-----------------------------|--------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Nivel de aguas subterráneas | Dirección de Agua del Ministerio de Ambiente y Energía. | La Dirección de Agua actualmente tiene el SINIGIRH, un sistema que en tiempo real registra los datos del nivel de los acuíferos en ciertos lugares del país. Aunque el acceso al sistema actualmente es restringido, sería importante tener acceso abierto a los registros históricos. |
+
 
 ### Datos sobre vulnerabilidad climática
 | Conjunto de datos | Entidad gubernamental actualmente encargada de su generación | Observaciones |
@@ -329,10 +332,12 @@ Los conjuntos de datos listados a continuación están agrupados siguiendo las c
 | Comunidades, organizaciones y empresas galardonadas por el programa Bandera Azul Ecológica | Programa Bandera Azul Ecológica del AyA. | El programa tiene varias categorías relacionadas a mitigación y adaptación al cambio climático y en su página web se encuentran las listas de organizaciones, empresas y comunidades galardonadas a través de los años. |
 | Datos demográficos | Instituto Nacional de Estadística y Censos (INEC) | Los datos agregados según diferentes variables de los distintos censos realizados por el INEC se pueden consultar y descargar desde su sitio web. |
 
+
 ### Datos sobre emisiones
 | Conjunto de datos | Entidad gubernamental actualmente encargada de su generación | Observaciones |
 |----------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------------------------|
 | Inventario nacional de gases de efecto invernadero | Instituto Meteorólgico Nacional (IMN) | Los datos resúmen están disponibles actualmente como tablas en documentos pdf. |
+
 
 ### Datos sobre electricidad
 | Conjunto de datos | Entidad gubernamental actualmente encargada de su generación | Observaciones |
