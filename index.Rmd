@@ -203,6 +203,7 @@ El documento y la metodología utilizada puede accederse en [este enlace](http:/
 Tomando como base el [Tutorial Datos Abiertos de la Iniciativa Global para la Transparencia Fiscal](http://www.fiscaltransparency.net/resourcesfiles/files/20180706207.pdf), que a pesar de no estar directamente relacionado con datos sobre cambio climático sirve de guía general para esbozar el proceso. Ese documento menciona que el proceso está conformado por 7 pasos:
 
 1. **Escuchar la Demanda: **
+
 Un dato tiene valor en la medida en que se utiliza.
 
 Es importante consultarle a los distintos actores de la sociedad civil, academia, sector privado, sector público y potenciales usuarios:
@@ -259,38 +260,60 @@ Es importante consultarle a los distintos actores de la sociedad civil, academia
 
 # Ejemplos de plataformas de datos abiertos y cambio climático
 
-**Inventario Nacional de Gases de Efecto Invernadero de Argentina:**
+**Inventario Nacional de Gases de Efecto Invernadero de Argentina**:
+
 [https://inventariogei.ambiente.gob.ar](https://inventariogei.ambiente.gob.ar) 
+
 Portal con documentos de los informes y herramientas para crear reportes gráficos interactivos con la opción de descarga de datos de los inventarios de GEI que se han realizado en Argentina.
 
 
 **Open Data for Resilience Index**: (Índice de Datos Abiertos para la Resiliencia) 
+
 [https://index.opendri.org](https://index.opendri.org)  
+
 Plataforma global de datos relacionados a la gestión del riesgo a desastres. Evalúa la apertura de datos por país y permite contribuir con conjuntos de datos estandarizados.  Costa Rica no tiene ningún conjunto de datos. 
 
-**Open Data for Resilience Initiative **(Iniciativa de datos abiertos para la resiliencia) 
+
+**Open Data for Resilience Initiative ** (Iniciativa de datos abiertos para la resiliencia) 
+
 [https://opendri.org](https://opendri.org) 
+
 Plataforma global que produce el índice anterior. Se enfoca en tres pilares: compartir, recolectar y reutilizar datos. Muestra los esfuerzos por país en cada uno de estos pilares.
 
 
+
 **Partnership for Resilience and Preparedness** (Alianza para la Resiliencia y la Preparación)
+
 [https://prepdata.org](https://prepdata.org)
+
 Como establece su lema: "Visualizando datos para crear resiliencia climática", ésta plataforma cuenta* * con herramientas para explorar datos abiertos, crear visualizaciones y buscar fuentes de datos relacionados a cambio climático.
 
-* Ver el ejemplo: "El futuro del café en Costa Rica": [https://prepdata.org/dashboards/costa-rica-example](https://prepdata.org/dashboards/costa-rica-example) 
+* Ver el ejemplo: "El futuro del café en Costa Rica":
+
+[https://prepdata.org/dashboards/costa-rica-example](https://prepdata.org/dashboards/costa-rica-example) 
+
 
 
 **Think Hazard!**: 
+
 [http://thinkhazard.org](http://thinkhazard.org/)
+
 Plataforma para identificar peligros y entender cómo reducir su impacto. Herramienta con mapas y distintos peligros para (casi) todos los países del mundo. Para el caso de Costa Rica la información detalla hasta nivel cantonal. No todos los conjuntos de datos son abiertos, algunos únicamente son para desplegarse como mapas pero no se pueden descargar los datos crudos.
 
 
-**Hazards, Exposures and Vulnerabilities Data Exploration Tool**: [http://assess-risk.info](http://assess-risk.info/#/)
+
+**Hazards, Exposures and Vulnerabilities Data Exploration Tool**:
+
+[http://assess-risk.info](http://assess-risk.info/#/)
+
 Portal de datos sobre peligro, exposición y vulnerabilidad.  Actualmente solo tiene datos para algunos países y no está Costa Rica.
 
 
+
 **Open Cities Project**: 
+
 [https://opencitiesproject.org](https://opencitiesproject.org)
+
 Proyecto de OpenDRI en África que entre varias cosas promueve la generación de datos abiertos geográficos a través de la participación ciudadana. Utiliza la plataforma de OpenStreetMap.
 
 Para el caso de Costa Rica, y a pesar de que no son datos estrictamente relacionados a cambio climático, cabe resaltar los esfuerzos que se han realizado con las plataformas de datos abiertos del [Gobierno de Costa Rica](http://datosabiertos.presidencia.go.cr/home) y [Poder Judicial](http://datosabiertospj.eastus.cloudapp.azure.com), además de la infraestructura nacional de datos espaciales llamada [Sistema Nacional de Información Territorial (SNIT)](http://www.snitcr.go.cr).
