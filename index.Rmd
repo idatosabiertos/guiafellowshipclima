@@ -158,7 +158,7 @@ Distintas recomendaciones importantes sobre los formatos a utilizar, nomenclatur
 
 Existen diversas metodologías y maneras de evaluar un portal de datos abiertos. A continuación compartimos algunas de las más utilizadas.
 
-**Las cinco estrellas de Datos Abiertos**
+### Las cinco estrellas de Datos Abiertos
 
 Una metodología muy utilizada de cinco escalafones que evalúa y propone diferentes medidas que facilitan el acceso, distribución y análisis de los datos abiertos; este sistema se conoce como [las cinco estrellas de datos abiertos](https://5stardata.info/es/). La meta de las instituciones que publican datos abiertos es llegar a tener las cinco estrellas, pero en muchos casos, y dependiendo de las capacidades técnicas de las instituciones, esta meta se desarrollará través de un proceso que puede tomar tiempo.
 
@@ -180,7 +180,7 @@ Notas:
 
 * Tim Berners-Lee del *World Wide Web Consortium* tiene una presentación en YouTube sobre las ventajas de las cinco estrellas de datos abiertos. El video se puede ver en el enlace: ["Open, Linked Data for a Global Community"](https://youtu.be/ga1aSJXCFe0).
 
-**Open Data Certificate**
+### Open Data Certificate
 
 Otro método para evaluar la calidad de los portales de datos abiertos es el *open data certificate* creado por el *[Open Data Institut*e](https://theodi.org). Este emplea [una herramienta gratuita](https://certificates.theodi.org/en/) en línea que permite certificar portales de datos abiertos tomando como base el sistema de las cinco estrellas y otros estándares existentes. La herramienta da una calificación basada en cuatro insignias:
 
@@ -203,7 +203,6 @@ El documento y la metodología utilizada puede accederse en [este enlace](http:/
 Tomando como base el [Tutorial Datos Abiertos de la Iniciativa Global para la Transparencia Fiscal](http://www.fiscaltransparency.net/resourcesfiles/files/20180706207.pdf), que a pesar de no estar directamente relacionado con datos sobre cambio climático sirve de guía general para esbozar el proceso. Ese documento menciona que el proceso está conformado por 7 pasos:
 
 1. **Escuchar la Demanda: **
-
 Un dato tiene valor en la medida en que se utiliza.
 
 Es importante consultarle a los distintos actores de la sociedad civil, academia, sector privado, sector público y potenciales usuarios:
@@ -224,9 +223,11 @@ Es importante consultarle a los distintos actores de la sociedad civil, academia
 
 * ¿Podemos identificar algún patrón sociodemográfico en las personas/organizaciones usuarias?
 
-2. ** Identificar fuente y formato de datos**
+
+2. **Identificar fuente y formato de datos**
 
 * Trabajar en su apertura implica análisis, procesamiento y creación de nuevos procesos para garantizar la sostenibilidad.
+
 
 3. **Iniciar su depuración y limpieza**
 
@@ -234,17 +235,21 @@ Es importante consultarle a los distintos actores de la sociedad civil, academia
 
 * Con datos sucios, su consulta y procesamiento se convierte en una tarea complicada.
 
+
 4. **Estándares nacionales o internacionales de referencia**
 
 * La apertura de datos debe ir en concordancia con estándares, ya sean nacionales o internacionales. Esto permitirá que los datos puedan ser comparables y compatibles con otros contextos.
+
 
 5. **Sostenibilidad de la información**
 
 * La apertura de información supone la ejecución de un proceso constante que considera la realización de diferentes tareas y  actividades.
 
+
 6. **Licencias de uso**
 
 *  Las entidades generadoras de datos deben estipular las licencias de uso que atenderán el aspecto ético y legal de la información.
+
 
 7. **Promover el uso de la información**
 
@@ -255,46 +260,40 @@ Es importante consultarle a los distintos actores de la sociedad civil, academia
 # Ejemplos de plataformas de datos abiertos y cambio climático
 
 **Inventario Nacional de Gases de Efecto Invernadero de Argentina:**
-
 [https://inventariogei.ambiente.gob.ar](https://inventariogei.ambiente.gob.ar) 
-
 Portal con documentos de los informes y herramientas para crear reportes gráficos interactivos con la opción de descarga de datos de los inventarios de GEI que se han realizado en Argentina.
 
+
 **Open Data for Resilience Index**: (Índice de Datos Abiertos para la Resiliencia) 
-
 [https://index.opendri.org](https://index.opendri.org)  
-
 Plataforma global de datos relacionados a la gestión del riesgo a desastres. Evalúa la apertura de datos por país y permite contribuir con conjuntos de datos estandarizados.  Costa Rica no tiene ningún conjunto de datos. 
 
-**Open Data for Resilience Initiative **(Iniciativa de datos abiertos para la resiliencia 
-
+**Open Data for Resilience Initiative **(Iniciativa de datos abiertos para la resiliencia) 
 [https://opendri.org](https://opendri.org) 
-
-Iniciativa de datos abiertos para la resiliencia.
-
 Plataforma global que produce el índice anterior. Se enfoca en tres pilares: compartir, recolectar y reutilizar datos. Muestra los esfuerzos por país en cada uno de estos pilares.
 
+
 **Partnership for Resilience and Preparedness** (Alianza para la Resiliencia y la Preparación)
-
 [https://prepdata.org](https://prepdata.org)
-
 Como establece su lema: "Visualizando datos para crear resiliencia climática", ésta plataforma cuenta* * con herramientas para explorar datos abiertos, crear visualizaciones y buscar fuentes de datos relacionados a cambio climático.
 
 * Ver el ejemplo: "El futuro del café en Costa Rica": [https://prepdata.org/dashboards/costa-rica-example](https://prepdata.org/dashboards/costa-rica-example) 
 
-**Think Hazard!**: [http://thinkhazard.org](http://thinkhazard.org/)
 
+**Think Hazard!**: 
+[http://thinkhazard.org](http://thinkhazard.org/)
 Plataforma para identificar peligros y entender cómo reducir su impacto. Herramienta con mapas y distintos peligros para (casi) todos los países del mundo. Para el caso de Costa Rica la información detalla hasta nivel cantonal. No todos los conjuntos de datos son abiertos, algunos únicamente son para desplegarse como mapas pero no se pueden descargar los datos crudos.
 
-**Hazards, Exposures and Vulnerabilities Data Exploration Tool**: [http://assess-risk.info](http://assess-risk.info/#/)
 
+**Hazards, Exposures and Vulnerabilities Data Exploration Tool**: [http://assess-risk.info](http://assess-risk.info/#/)
 Portal de datos sobre peligro, exposición y vulnerabilidad.  Actualmente solo tiene datos para algunos países y no está Costa Rica.
 
-**Open Cities Project**: [https://opencitiesproject.org](https://opencitiesproject.org)
 
+**Open Cities Project**: 
+[https://opencitiesproject.org](https://opencitiesproject.org)
 Proyecto de OpenDRI en África que entre varias cosas promueve la generación de datos abiertos geográficos a través de la participación ciudadana. Utiliza la plataforma de OpenStreetMap.
 
-Para el caso de Costa Rica, y a pesar de que no son datos estrictamente relacionados a cambio climático, cabe resaltar los esfuerzos que se han realizado con las plataformas de datos abiertos del [Gobierno de Costa Rica](http://datosabiertos.presidencia.go.cr/home) y [Poder Judicial](http://datosabiertospj.eastus.cloudapp.azure.com), además de la infraestructura nacional de datos espaciales llamada *[Sistema Nacional de Información Territorial (SNIT*)](http://www.snitcr.go.cr).
+Para el caso de Costa Rica, y a pesar de que no son datos estrictamente relacionados a cambio climático, cabe resaltar los esfuerzos que se han realizado con las plataformas de datos abiertos del [Gobierno de Costa Rica](http://datosabiertos.presidencia.go.cr/home) y [Poder Judicial](http://datosabiertospj.eastus.cloudapp.azure.com), además de la infraestructura nacional de datos espaciales llamada [Sistema Nacional de Información Territorial (SNIT)](http://www.snitcr.go.cr).
 
 # Recomendaciones: Datos para abrir y su disponibilidad en Costa Rica
 
